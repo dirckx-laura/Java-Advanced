@@ -1,0 +1,5 @@
+be\apti\examenalec\ExamenAlec.class
+be\apti\examenalec\models\Bestelling$1.class
+be\apti\examenalec\exceptions\DrankjesLimietOverschredenException.class
+be\apti\examenalec\models\Bestelling.class
+be\apti\examenalec\models\Drank.class
